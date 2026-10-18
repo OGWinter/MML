@@ -1,0 +1,164 @@
+{
+  "tracks": [
+    {
+      "_id": "94f136a8-5a0c-421a-b9a2-878ea2acdbc0",
+      "id": "84938e86-825b-414a-a4a8-c678833c3045",
+      "title": "Good Times Bad Times",
+      "artist": "Led Zeppelin",
+      "album": "Mothership",
+      "duration": 166,
+      "durationFormatted": "2:46",
+      "audioUrl": "http://localhost:5050/uploads/good_times_bad_times.m4a",
+      "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&auto=format&fit=crop&q=80",
+      "genre": "Classic Rock",
+      "vinylSide": "A",
+      "trackNumber": 1,
+      "source": "seed",
+      "releaseYear": "1969",
+      "plays": 1421,
+      "likes": 312,
+      "description": "Iconic opening track from Mothership remaster, featuring dynamic John Bonham triplet kick drum grooves.",
+      "colorPalette": {
+        "primary": "#0ea5e9",
+        "accent": "#e11d48"
+      },
+      "createdAt": "2026-10-18T17:54:57.963Z",
+      "updatedAt": "2026-10-18T18:08:44.630Z"
+    },
+    {
+      "_id": "14ecfb93-1e22-4368-b44b-8b99c8c7c687",
+      "id": "ae480f2b-a010-4a9f-ac15-e4c839b6d6c1",
+      "title": "Dazed & Confused",
+      "artist": "Led Zeppelin",
+      "album": "Mothership",
+      "duration": 388,
+      "durationFormatted": "6:28",
+      "audioUrl": "http://localhost:5050/uploads/dazed_and_confused.m4a",
+      "coverUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=600&auto=format&fit=crop&q=80",
+      "genre": "Hard Rock",
+      "vinylSide": "A",
+      "trackNumber": 2,
+      "source": "seed",
+      "releaseYear": "1969",
+      "plays": 2891,
+      "likes": 540,
+      "description": "Hypnotic bassline and bowed guitar effects capturing the true analog vinyl spirit.",
+      "colorPalette": {
+        "primary": "#2563eb",
+        "accent": "#e11d48"
+      },
+      "createdAt": "2026-10-18T17:54:57.963Z",
+      "updatedAt": "2026-10-18T18:09:14.633Z"
+    },
+    {
+      "_id": "ea163f57-ef4c-461c-b656-0192cb4c59ac",
+      "id": "a6721f94-d29c-473a-8235-b925318e0e0a",
+      "title": "Black Dog",
+      "artist": "Led Zeppelin",
+      "album": "Mothership",
+      "duration": 296,
+      "durationFormatted": "4:56",
+      "audioUrl": "http://localhost:5050/uploads/black_dog.m4a",
+      "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&auto=format&fit=crop&q=80",
+      "genre": "Rock",
+      "vinylSide": "A",
+      "trackNumber": 3,
+      "source": "seed",
+      "releaseYear": "1971",
+      "plays": 981,
+      "likes": 215,
+      "description": "A capella call-and-response hooks in complex 5/4 and 4/4 syncopated time signatures.",
+      "colorPalette": {
+        "primary": "#38bdf8",
+        "accent": "#fb7185"
+      },
+      "createdAt": "2026-10-18T17:54:57.964Z",
+      "updatedAt": "2026-10-18T18:08:39.983Z"
+    },
+    {
+      "_id": "33096542-7fda-4f37-a09d-892e8e80dc39",
+      "id": "59bb8563-46ef-4138-8db8-c53d709ccf24",
+      "title": "Perfect",
+      "artist": "Aiden Vale",
+      "album": "Midnight Horizons",
+      "duration": 252,
+      "durationFormatted": "4:12",
+      "audioUrl": "http://localhost:5050/uploads/perfect.m4a",
+      "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+      "genre": "Indie Pop",
+      "vinylSide": "B",
+      "trackNumber": 1,
+      "source": "seed",
+      "releaseYear": "2023",
+      "plays": 4800,
+      "likes": 910,
+      "description": "Chill romantic sunset melody with dreamy synthesizers and lush vocal harmonics.",
+      "colorPalette": {
+        "primary": "#0ea5e9",
+        "accent": "#e11d48"
+      },
+      "createdAt": "2026-10-18T17:54:57.964Z"
+    },
+    {
+      "_id": "27246659-c5aa-427b-9092-42bb142a01dc",
+      "id": "e46956a5-3369-41ec-add8-400b45757f97",
+      "title": "Dusk Till Dawn",
+      "artist": "ZAYN & Sia",
+      "album": "Midnight Collection",
+      "duration": 239,
+      "durationFormatted": "3:59",
+      "audioUrl": "http://localhost:5050/uploads/dusk_till_dawn.m4a",
+      "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&auto=format&fit=crop&q=80",
+      "genre": "Pop / Synth",
+      "vinylSide": "B",
+      "trackNumber": 2,
+      "source": "seed",
+      "releaseYear": "2022",
+      "plays": 3450,
+      "likes": 820,
+      "description": "High-octane pop ballad with resonant sky blue synths and rich crimson bass drops.",
+      "colorPalette": {
+        "primary": "#0284c7",
+        "accent": "#be123c"
+      },
+      "createdAt": "2026-10-18T17:54:57.964Z"
+    },
+    {
+      "_id": "a3fc1959-9a72-4f37-8c28-c0f44fa25257",
+      "id": "773d3c6e-f658-47cf-aa1d-e95c63b49b1f",
+      "title": "Midnight City",
+      "artist": "M83",
+      "album": "Hurry Up, We're Dreaming",
+      "duration": 243,
+      "durationFormatted": "4:03",
+      "audioUrl": "http://localhost:5050/uploads/midnight_city.m4a",
+      "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+      "genre": "Synthwave",
+      "vinylSide": "B",
+      "trackNumber": 3,
+      "source": "seed",
+      "releaseYear": "2021",
+      "plays": 5211,
+      "likes": 1240,
+      "description": "The definitive midnight driving anthem, pulsating electronic arpeggios and iconic saxophone solo.",
+      "colorPalette": {
+        "primary": "#38bdf8",
+        "accent": "#e11d48"
+      },
+      "createdAt": "2026-10-18T17:54:57.965Z",
+      "updatedAt": "2026-10-18T18:10:36.198Z"
+    }
+  ],
+  "users": [
+    {
+      "_id": "c01c1d36-8f39-41b9-9755-fdec18a59ebc",
+      "id": "ff2acb77-d884-473a-9cb2-8e48063cc298",
+      "email": "admin@radiant.music",
+      "password": "$2b$10$ZMYuZ6sa2WUJViPtu6ERReOTvv4ivE/P6N/jlVRfJm/kIlpkGYRnW",
+      "name": "Vinyl Master Admin",
+      "role": "admin",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-18T17:54:57.961Z"
+    }
+  ]
+}
